@@ -1,5 +1,7 @@
-# Example Package
-
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+This package contain different functions that do following functionality
+> visualize line plot
+> visualize bar plot
+> Calculate median
+> Calculate grouped median
+> Calculate ungrouped median
+> Calculate variance
