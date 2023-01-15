@@ -8,7 +8,7 @@ setup(
   author = 'RIDA',                  
   author_email = 'www.rida275@gmail.com',      
   url = 'https://github.com/rida-manzoor/MSDSF22M024',   
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/rida-manzoor/MSDSF22M024/archive/refs/tags/v1.0.tar.gz',
   keywords = ['SOME', 'MEANINGFULL', 'FUNCTION'],   
   install_requires=[            # I get to this in a second
           'validators',
