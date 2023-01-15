@@ -11,8 +11,8 @@ setup(
   download_url = 'https://github.com/rida-manzoor/MSDSF22M024/archive/refs/tags/v1.0.tar.gz',
   keywords = ['SOME', 'MEANINGFULL', 'FUNCTION'],   
   install_requires=[            # I get to this in a second
-          'validators',
-          'beautifulsoup4',
+          'matplotlib',
+          'math',
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',     
